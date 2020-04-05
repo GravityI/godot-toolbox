@@ -1,5 +1,5 @@
 # godot-toolbox
-##### *A list of assets made in Godot Engine*
+##### *A list of resources aimed to assist you in your journey of developing a game with the Godot Engine*
 ![GitHub](https://img.shields.io/github/license/gravityi/godot-toolbox) ![Twitter Follow](https://img.shields.io/twitter/follow/peixoto_icaro?style=social)
 
 Asset folders can be found on their respective version folder.
@@ -16,7 +16,7 @@ Each asset will have its own LICENSE.md file available in their folder. If it re
 
 Version | 2D/3D/Any | Asset Folder | Description | License | Credits
 ------- | --------- | ------------ | ----------- | ------- | -------
-3.2.1 | 3D | mazeGenerator | Generates a single floor, 3D Maze in a gridmap using Prim's algorithm. | MIT | [GravityI](https://github.com/GravityI)
+3.2 | 3D | mazeGenerator | Generates a single floor, 3D Maze in a gridmap using Prim's algorithm. | MIT | [GravityI](https://github.com/GravityI)
 
 
 ## Contributing
