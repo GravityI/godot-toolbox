@@ -1,5 +1,5 @@
 # godot-toolbox
-##### *A list of resources aimed to assist you in your journey of developing a game with the Godot Engine*
+##### *A list of resources aimed to assist you in your journey of developing a game with the Godot Engine.*
 ![GitHub](https://img.shields.io/github/license/gravityi/godot-toolbox) ![Twitter Follow](https://img.shields.io/twitter/follow/peixoto_icaro?style=social)
 
 Asset folders can be found on their respective version folder.
