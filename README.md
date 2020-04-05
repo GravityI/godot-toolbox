@@ -1,5 +1,5 @@
 # godot-toolbox
-##### *Various assets to be used in Godot Engine*
+##### *A list of assets made in Godot Engine*
 ![GitHub](https://img.shields.io/github/license/gravityi/godot-toolbox) ![Twitter Follow](https://img.shields.io/twitter/follow/peixoto_icaro?style=social)
 
 Assets folders can be found on their respective version folder.
@@ -10,7 +10,7 @@ Simply download the zip or clone the repository, copy the folders that interest 
 
 ## License
 
-Each asset will have its own LICENSE.md file available in their folder. If it requires attribution, copy the **Credits** section in **Assets List**.
+Each asset will have its own LICENSE.md file available in their folder. If it requires attribution, use the **Credits** section in **Assets List**.
 
 ## Assets List
 
@@ -23,7 +23,7 @@ Version | 2D/3D/Any | Asset Folder | Description | License | Credits
 
 Pull requests are welcome, as long as they follow these guidelines: 
   - Make sure the asset folder contains all files required for it to work properly and a LICENSE.md if you want to add one.
-  - Fill in the information for your asset in the **Assets List**, preferably be.
+  - Fill in the information for your asset in the **Assets List**, preferably below the last asset in the list that shares the same **Version** and **2D/3D/Any** categories with it.
     - Version: the version of the Godot Engine in which the asset was developed.
     - 2D/3D/Any: where the asset is supposed to run.
     - Asset Folder: the name of the asset folder.
