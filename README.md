@@ -2,7 +2,7 @@
 ##### *A list of assets made in Godot Engine*
 ![GitHub](https://img.shields.io/github/license/gravityi/godot-toolbox) ![Twitter Follow](https://img.shields.io/twitter/follow/peixoto_icaro?style=social)
 
-Assets folders can be found on their respective version folder.
+Asset folders can be found on their respective version folder.
 
 ## Including assets in your project
 
