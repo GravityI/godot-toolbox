@@ -4,13 +4,13 @@
 
 Asset folders can be found on their respective version folder.
 
-## Including assets in your project
+## Adding resources to your project
 
 Simply download the zip or clone the repository, copy the folders that interest you and paste them into your project. Then, import the scenes contained within each folder in Godot Engine.
 
 ## License
 
-Each asset will have its own LICENSE.md file available in their folder. If it requires attribution, use the **Credits** section in **Assets List**.
+Each asset will have its own LICENSE file available in their folder. If it requires attribution, use the **Credits** section in **Assets List**.
 
 ## Assets List
 
@@ -22,7 +22,7 @@ Version | 2D/3D/Any | Asset Folder | Description | License | Credits
 ## Contributing
 
 Pull requests are welcome, as long as they follow these guidelines: 
-  - Make sure the asset folder contains all files required for it to work properly and a LICENSE.md if you want to add one.
+  - Make sure the asset folder contains all files required for it to work properly and a LICENSE file if you want to add one.
   - Fill in the information for your asset in the **Assets List**, preferably below the last asset in the list that shares the same **Version** and **2D/3D/Any** categories with it.
     - Version: the version of the Godot Engine in which the asset was developed.
     - 2D/3D/Any: where the asset is supposed to run.
